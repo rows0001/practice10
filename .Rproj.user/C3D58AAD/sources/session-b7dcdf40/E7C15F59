@@ -19,6 +19,7 @@
         "scrollLine": "0",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
+<<<<<<< HEAD
         "rmdVisualModeLocation": "86:0"
     },
     "folds": "",
@@ -27,6 +28,16 @@
     "collab_server": "",
     "source_window": "",
     "last_content_update": 1716717790432,
+=======
+        "rmdVisualModeLocation": "40:0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1716717179,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1716717179875,
+>>>>>>> testbranch
     "read_only": false,
     "read_only_alternatives": []
 }
